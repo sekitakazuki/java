@@ -1,8 +1,8 @@
 
 public class main {
 
-	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
+	public static void main_Hello_world(String[] args) {
+		System.out.println("Hellor world");
 
 	}
 
